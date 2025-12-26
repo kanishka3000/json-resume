@@ -115,8 +115,7 @@
       "name": "Skylight – Real-Time Analytics Platform",
       "role": "Lead Engineer",
       "startDate": "2022-03",
-      "endDate": "Present",
-      "description": "A real-time analytics platform providing live insights into agent listing performance and engagement.",
+      "description": "A real-time analytics platform providing live insights.",
       "highlights": [
         "Designed streaming pipelines using Apache Flink to compute real-time metrics across millions of events.",
         "Collaborated with product and UX teams to surface actionable insights for agents via dashboards.",
