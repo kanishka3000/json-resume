@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "export:macchiato": "npx resumed export resume.json --theme jsonresume-theme-macchiato --output resume.pdf",
+    "export:grande": "npx resumed export resume.json --theme jsonresume-theme-grande --output resume.pdf",
     "export:stackoverflowed": "npx resumed export resume.json --theme jsonresume-theme-stackoverflowed --output resume.pdf",
     "export:kendall": "npx resumed export resume.json --theme jsonresume-theme-kendall --output resume.pdf"
   },
@@ -14,8 +14,8 @@
   "description": "",
   "dependencies": {
     "@warleon/jsonresume-theme-compact": "^0.0.12",
+    "jsonresume-theme-grande": "^1.0.0",
     "jsonresume-theme-kendall": "^0.2.0",
-    "jsonresume-theme-macchiato": "file:../Work/jsonresume-theme-macchiato",
     "jsonresume-theme-stackoverflowed": "^1.1.5",
     "puppeteer": "^24.34.0",
     "resumed": "^6.1.0"

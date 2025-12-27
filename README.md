@@ -14,10 +14,14 @@ This is my CV/resume in the [JSON Resume](https://jsonresume.org/) format.
 
 The standard makes it easy to keep your resume up-to-date and share it in different formats without manually recreating it each time.
 
+## Theme
+
+This resume uses my custom theme [jsonresume-theme-grande](https://www.npmjs.com/package/jsonresume-theme-grande), published on npm.
+
 ## Files
 
 - `resume.json` - My resume data in JSON Resume format
-- `resume.html` - Generated HTML version
+- `resume.html` - Generated HTML version using the Grande theme
 
 ## Learn More
 
