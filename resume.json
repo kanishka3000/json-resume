@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Java (11+)", "TypeScript", "JavaScript", "C++"]
+      "keywords": ["Java (14+)", "TypeScript", "JavaScript", "C++"]
     },
     {
       "name": "Backend",
