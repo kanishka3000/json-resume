@@ -18,13 +18,13 @@
         "url": "https://linkedin.com/in/kkgweerasekara"
       }
     ],
-    "summary": "Senior Software Engineer with 10+ years of experience building distributed, high-performance systems. Strong background in Java-based backend development, real-time data processing, and cloud-native platforms. Proven delivery across real estate analytics, financial exchanges, government systems, and enterprise platforms."
+    "summary": "A Senior Software Engineer with 14+ years of experience building distributed, high-performance systems. Strong background in Java-based backend development, real-time data processing, and cloud-native platforms. Proven delivery across real estate analytics, financial exchanges, government systems, and enterprise platforms."
   },
 
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Java (14+)", "TypeScript", "JavaScript", "C++"]
+      "keywords": ["Java (17+)", "TypeScript", "JavaScript", "C++"]
     },
     {
       "name": "Backend",
@@ -110,14 +110,14 @@
       ]
     },
     {
-      "company": "QuEST Global",
+      "company": "QuEST Global, Land Transport Authority of Singapore",
       "position": "Senior Software Engineer",
       "location": "Singapore",
       "startDate": "2018-07",
       "endDate": "2019-12",
       "summary": "Senior engineer on large-scale transport and control systems.",
       "highlights": [
-        "Lead engineer for station control systems in Singapore’s rail network.",
+        "A Lead engineer for station control systems in Singapore’s rail network.",
         "Designed scalable backend services and APIs using Java.",
         "Contributed to cloud deployment evaluations."
       ]
