@@ -3,7 +3,7 @@
 
   "basics": {
     "name": "Kanishka Weerasekara",
-    "label": "Senior Software Engineer",
+    "label": "Senior Software Engineer | Australian Permanent Resident",
     "email": "kkgweerasekara@gmail.com",
     "phone": "+61 432 573 022",
     "location": {
@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Java (17+)", "TypeScript", "JavaScript", "C++"]
+      "keywords": ["Java (17+)", "TypeScript", "C++"]
     },
     {
       "name": "Backend",
@@ -78,7 +78,7 @@
       "summary": "Senior engineer working on real-time analytics and shared platforms for real estate agents.",
       "highlights": [
         "Built real-time analytics using Apache Flink (Java) for agent performance insights.",
-        "Developed serverless platforms on AWS using Lambda, DynamoDB, and CDK.",
+        "Architected and developed serverless platforms on AWS using Lambda, DynamoDB, and CDK.",
         "Contributed to shared onboarding and identity systems across multiple products.",
         "Collaborated with product, data, and platform teams on production systems."
       ]
@@ -196,7 +196,7 @@
       "endDate": "2014-01",
       "description": "High-performance trading platform deployed to global stock exchanges.",
       "highlights": [
-        "Developed low-latency Java gateway and pricing components.",
+        "Developed low-latency market data and gateway components in Java and C++",
         "Worked on sub-100 microsecond performance optimizations.",
         "Collaborated with cross-region teams for production rollout."
       ],
